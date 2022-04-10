@@ -11,6 +11,7 @@ This repository contains all my contributions to [SIFAS Daily Theatre on Twitter
 ## File structure
 
 ```
+root
 └───year
     └───month
         ├───day

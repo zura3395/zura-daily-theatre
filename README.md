@@ -23,7 +23,7 @@ This repository contains all my contributions to [SIFAS Daily Theatre on Twitter
 
 ## Writing conventions
 
-- Use honorifics (-san, -senpai)
+- Use honorifics ("-san", "chan", "-senpai")
 - Use . (period/full stop) after each sentence unless it ends with a non letter (i.e. "~")
 - Always use third person if the person only speaks in third person (Kasumin), casual third personer (Kotori, Nico, Mari, Kanata) can be excused.
 - Add 「」 to title using button

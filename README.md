@@ -19,7 +19,7 @@ root
             ├───YYYYMMDD idolstory amend.png // Corrected image after publication on Twitter and Instagram (If applicable)
             ├───YYYYMMDD.txt // The exported config from Daily Theatre for editing
             ├───YYYYMMDD amend.txt // Corrected config (If applicable)
-            ├───reference.txt // "References DD/MM/YYYY" (non-US formatting)
+            ├───reference.txt // "References YYYYMMDD"
 ```
 
 ## Writing conventions

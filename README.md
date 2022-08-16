@@ -1,6 +1,6 @@
 # SIFAS Daily Theatre
 
-This repository contains all my contributions to [SIFAS Daily Theatre on Twitter](https://twitter.com/SIFAStheatre/).
+This repository contains all my (zura) contributions to [SIFAS Daily Theatre on Twitter](https://twitter.com/SIFAStheatre/).
 
 ## Useful links
 

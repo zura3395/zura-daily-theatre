@@ -10,7 +10,7 @@ This repository contains all my (zura) contributions to [SIFAS Daily Theatre on 
 
 ## File structure
 
-```
+```text
 root
 └───year
     └───month

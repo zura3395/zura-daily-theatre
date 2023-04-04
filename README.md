@@ -17,7 +17,7 @@ root
         ├───day
             ├───YYYYMMDD idolstory.png // The exported image from Daily Theatre Maker with Idol Story watermark
             ├───YYYYMMDD idolstory amend.png // Corrected image after publication on Twitter and Instagram (If applicable)
-            ├───YYYYMMDD.txt // The exported config from Daily Theatre for editing
+            ├───YYYYMMDD.json OR .txt // The exported config from Daily Theatre for editing
             ├───YYYYMMDD amend.txt // Corrected config (If applicable)
             ├───reference.txt // "References YYYYMMDD"
 ```

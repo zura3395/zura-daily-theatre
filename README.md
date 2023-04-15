@@ -6,6 +6,8 @@ This repository contains all my (zura) contributions to [SIFAS Daily Theatre on 
 
 [Daily Theatre Maker](https://eaglescommander.github.io/daily-theatre/) by [https://twitter.com/Eaglezs](Eagles)
 
+[Daily Theatre Maker fork](https://zura3395.github.io/daily-theatre/) 
+
 [Database](http://sifasdt.waxwolf.com/)
 
 ## File structure

@@ -4,7 +4,7 @@ This repository contains all my (zura) contributions to [SIFAS Daily Theatre on 
 
 ## Useful links
 
-[Daily Theatre Maker](https://eaglescommander.github.io/daily-theatre/) by [Eaglesz](https://twitter.com/Eaglezs)
+[Daily Theatre Maker](https://eaglescommander.github.io/daily-theatre/) by [Eaglezs](https://twitter.com/Eaglezs)
 
 [Daily Theatre Maker fork](https://zura3395.github.io/daily-theatre/) 
 

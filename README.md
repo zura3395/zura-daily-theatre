@@ -1,12 +1,10 @@
-# SIFAS Daily Theatre
+# SIFAS/SIF2 Daily Theatre
 
-This repository contains all my (zura) contributions to [SIFAS Daily Theatre on Twitter](https://twitter.com/SIFAStheatre/).
+This repository contains all my (zura) contributions to [SIFAS/SIF2 Daily Theatre on Twitter](https://twitter.com/SIFAStheatre/).
 
 ## Useful links
 
-[Daily Theatre Maker](https://eaglescommander.github.io/daily-theatre/) by [Eaglezs](https://twitter.com/Eaglezs)
-
-[Daily Theatre Maker fork](https://zura3395.github.io/daily-theatre/) 
+[Daily Theatre Maker fork](https://zura3395.github.io/daily-theatre/)
 
 [Database](http://sifasdt.waxwolf.com/)
 
